@@ -18,26 +18,6 @@ Image Handling: Optimized storage & delivery
 🌐 Seamless frontend-backend communication
 
 
-📁 Project Structure
-BACKEND-PROJECT/
-│
-├── Backend/
-│   ├── src/
-│   │   ├── db/
-│   │   ├── models/
-│   │   └── services/
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── pages/
-│   │   └── components/
-│   ├── vite.config.js
-│   └── package.json
-│
-└── README.md
-
 
 ⚙️ Installation & Setup
 🔧 Backend Setup
